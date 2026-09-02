@@ -38,14 +38,14 @@ This project was created as a university assignment for my Unreal Engine course.
 
 ### Prerequisites
 
-* **Unreal Engine 5.7.4**
-* **Visual Studio 2022 (or later) with ***Game development with C++*****  
+* Unreal Engine 5.7.4
+* Visual Studio 2022 (or later) with ***Game development with C++***  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Open the project in the Unreal Editor, load **"Main"** and press the play button. This would skip the tittle screen. 
+Open the project in the Unreal Editor, load **_Main_** and press the play button. This would skip the tittle screen. 
 
 **Controls:**
 * W / A / S / D - movement
